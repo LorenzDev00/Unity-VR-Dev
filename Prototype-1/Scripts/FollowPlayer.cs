@@ -1,4 +1,3 @@
-```csharp
 // Script to make the attached object follow another GameObject (player) with a specific offset
 
 public class FollowPlayer : MonoBehaviour
@@ -13,4 +12,3 @@ public class FollowPlayer : MonoBehaviour
         transform.position = player.transform.position + offset;
     }
 }
-```
