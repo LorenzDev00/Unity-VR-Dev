@@ -31,5 +31,13 @@ public class PlayerController : MonoBehaviour
 
         // Move the player horizontally based on input and speed.
         transform.Translate(Vector3.right * Time.deltaTime * speed * horiziontalInput);
+
+        // Check if the space key is pressed
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+        // If space key is pressed, instantiate a projectilePrefab at the current object's position
+        // and with the same rotation as the projectilePrefab's initial rotation
+        Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+        }        
     }
 }
