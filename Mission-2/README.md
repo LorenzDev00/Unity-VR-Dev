@@ -1,0 +1,3 @@
+# Mission 2
+
+In this Junior Programmer mission, you’ll expand on your foundational learning and create basic custom interactions with Unity. As you complete four practical projects, you’ll explore a range of concepts that support basic functionality, including loops, data types, references, script communication and UI. To complete the mission, you’ll create a simple prototype application for your portfolio.
