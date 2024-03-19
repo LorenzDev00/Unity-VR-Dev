@@ -1,4 +1,5 @@
-# 🎮 Game Dev 🎮
+# 🎮 Virtual Reality Dev 🎮
 Code and notes form Unity Tech. lectures at https://learn.unity.com/ \
-Currently attending :
+Courses :
 - Junior Programmer Pathway 🖥️
+- VR Development Pathway 👓
