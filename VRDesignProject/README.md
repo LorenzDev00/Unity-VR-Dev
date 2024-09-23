@@ -34,6 +34,6 @@ Escape from a drifting, soon-to-be-destroyed spaceship by solving puzzles and ov
 - **Scenes**:
   1. **Crew Quarters**:
      - Interactive objects: doors, android, pistols, crates  
-  2. **Escape Section**:
+  2. **Evacuation Section**:
      - Solve puzzle by placing **batteries** to open the **evacuation door**
      - Simulation ends upon reaching the **escape doors**
