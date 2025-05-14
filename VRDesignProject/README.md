@@ -49,7 +49,7 @@ Escape from a drifting, soon-to-be-destroyed spaceship by solving puzzles and ov
   - Mic voice: AI generated (https://elevenlabs.io/) and paded with Voice Changer(https://voicechanger.io/)
   - Ambience Sounds: main source is [Pixabay.com](https://pixabay.com/)
 
-## Some Images form the experience
+## Images
 ![Screenshot 2024-09-20 151000_upscayl_4x_realesrgan-x4plus](https://github.com/user-attachments/assets/9dcc5046-e320-492e-a7cb-7cc27d0b70c3)
 ![Screenshot 2024-09-20 150928_upscayl_4x_realesrgan-x4plus](https://github.com/user-attachments/assets/ddd99705-0a11-43bd-b9fb-f3b58e054c33)
 ![Screenshot 2024-09-20 150751_upscayl_4x_realesrgan-x4plus](https://github.com/user-attachments/assets/4d30f19c-f6d3-49e5-b1a9-92bf9d5548c5)
